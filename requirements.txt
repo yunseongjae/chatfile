@@ -5,3 +5,4 @@ python-docx
 fitz
 pillow
 pathlib
+streamlib
