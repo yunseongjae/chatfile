@@ -3,6 +3,6 @@ pdf2image
 python-pptx
 python-docx
 fitz
-pillow
+Pillow
 pathlib
 streamlib
