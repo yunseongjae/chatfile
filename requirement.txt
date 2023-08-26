@@ -1,0 +1,8 @@
+langchain
+pdf2image
+python-pptx
+python-docx
+tempfile
+fitz
+PIL
+pathlib
